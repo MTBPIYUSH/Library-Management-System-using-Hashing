@@ -7,4 +7,4 @@
 5. It has a user-friendly menu interface and robust error handling.
 6. The modular design and well-documented code allow for maintainability and future enhancements.
 <hr>
-By leveraging hashing, the system streamlines library operations, reduces manual effort, and enhances the user experience while demonstrating the practical application of computer science concepts
+
