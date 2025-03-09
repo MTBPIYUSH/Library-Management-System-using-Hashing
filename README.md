@@ -1,4 +1,4 @@
 # Library Management System using Hashing
 
-A hashing algorithm is employed to store the data inserted.\n
-To resolve collisions, linear probing method is used.
+A hashing algorithm is employed to store the data inserted.<be>
+To resolve collisions, the linear probing method is used.
