@@ -6,4 +6,5 @@
 4. The system offers functionalities like adding, borrowing, returning, and deleting books, as well as displaying available and borrowed book lists.
 5. It has a user-friendly menu interface and robust error handling.
 6. The modular design and well-documented code allow for maintainability and future enhancements.
-7. By leveraging hashing, the system streamlines library operations, reduces manual effort, and enhances the user experience while demonstrating the practical application of computer science concepts
+<hr>
+By leveraging hashing, the system streamlines library operations, reduces manual effort, and enhances the user experience while demonstrating the practical application of computer science concepts
